@@ -1,4 +1,6 @@
+<img src="images/svg/header_pt.svg"></img>
 ## Olá! Sou Angelita Luz.. 
+
 
 <div align="center"> 
 <a href="https://instagram.com/pandinhagameoficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
@@ -7,13 +9,8 @@
 <a href="https://www.linkedin.com/in/angelita-da-luz-7858a429b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://steamcommunity.com/id/pandinhagame" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/PandiinhaGame" target="_blank"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white facebook
-
-https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white google play
-
-https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white audacity
-
-https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black photoshop
+<a href="https://www.facebook.com/PandinhaGame"target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+<a href="https://play.google.com/store/apps/details?id=com.vidroid.com.br.apps.pandinhagame"target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a> 
 
 ## Web Browsers
 
@@ -30,12 +27,17 @@ https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=A
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
 ## Studying in this moment:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![]&nbsp;
+## Workstation Tools:
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)&nbsp; 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
