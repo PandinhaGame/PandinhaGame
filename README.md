@@ -1,4 +1,4 @@
-### Olá! Sou Angelita Luz.. 
+## Olá! Sou Angelita Luz.. 
 
 <div align="center"> 
 <a href="https://instagram.com/pandinhagameoficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
@@ -15,7 +15,7 @@ https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&l
 
 https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black photoshop
 
-### Web Browsers
+## Web Browsers
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
@@ -25,11 +25,11 @@ https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=A
   
 </div>
 
-### Main skills:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+## Main skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
-### Studying in this moment:
+## Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
