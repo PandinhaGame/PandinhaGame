@@ -1,11 +1,15 @@
-## Olá! Sou Angelita Luz.. 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Angelita+Luz.;I'm+from+Brazil.;I+Studying+TI.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center" style="margin-bottom:100px">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PandinhaGame&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Angelita Luz github stats" /> 
-  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandinhaGame&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PandinhaGame&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=9370DB&text_color=c9d1d9&bg_color=0d1117" alt="Angelita Luz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandinhaGame&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
+##
+
+<div align="center" style="margin-bottom:100px">
 <a href="https://www.linkedin.com/in/angelita-da-luz-7858a429b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://instagram.com/pandinhagameoficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 <a href="https://www.youtube.com/channel/UCKx-TvSLl2RsljsNArQG2EQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -50,6 +54,7 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
+##
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PandinhaGame&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -59,3 +64,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PandinhaGame}/count.svg" /></p> 
 <br>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
