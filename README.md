@@ -50,14 +50,12 @@
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)&nbsp; -->
 
 ##
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=PandinhaGame&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />-->
-</p>
-
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<p><img src="https://github-profile-trophy.vercel.app/?username=PandinhaGame&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /></p>
+</div>
+<div align="center">
+<p align="centre"><b>Visitors Count</p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PandinhaGame}/count.svg" /></p> 
-<br>
 </div>
 
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
