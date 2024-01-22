@@ -47,11 +47,6 @@
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)&nbsp; 
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)&nbsp; -->
 
-### Web Browsers:
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)&nbsp;
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)&nbsp;
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;
-
 ##
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PandinhaGame&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
