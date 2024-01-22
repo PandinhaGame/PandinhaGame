@@ -43,7 +43,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)&nbsp; -->
 
 ##
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=PandinhaGame&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
