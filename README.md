@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Angelita+Luz!;I'm+from+Brazil!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -22,7 +22,7 @@
 <!-- # My Skills
 ### Main Stack: -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computer-Coffe">
+<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computer-Coffe">-->
 
 ### Studying in this moment:
 <div style="display: inline_block">
@@ -51,7 +51,7 @@
 
 ##
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=PandinhaGame&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PandinhaGame&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />-->
 </p>
 
 <div align="center">
@@ -60,4 +60,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
