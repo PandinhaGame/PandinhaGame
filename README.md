@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Angelita+Luz!;I'm+from+Brazil!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-###### 🤖... Programadora em desenvolvimento, por favor aguarde! :) 
 ###### 🤖... Developer in development, please wait! :)
 
 <div align="center" style="margin-bottom:100px">  
