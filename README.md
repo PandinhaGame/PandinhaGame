@@ -50,8 +50,8 @@
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)&nbsp; 
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)&nbsp; -->
 
+##
 <div align="center" style="margin-bottom:100px">  
-  #### Profile Views
   <table>
     <tr>
       <th>Total Count</th>
