@@ -51,6 +51,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)&nbsp; -->
 
 ## Profile Views
+<div align="center" style="margin-bottom:100px">  
   <table>
     <tr>
       <th>Total Count</th>
@@ -61,6 +62,7 @@
       </td>
     </tr>
   </table>
+</div>
   
 ##
 <!--<div align="center">
